@@ -1,0 +1,68 @@
+2024-09-04 11:40:02.146 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aaiqb\AppData\Local\Temp\testng-eclipse-1382378276\testng-customsuite.xml"
+2024-09-04 11:40:02.333 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-04 11:40:02.545 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-04 11:40:02.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.552 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.552 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.554 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.554 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.560 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-09-04 11:40:02.567 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2024-09-04 11:40:02.568 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.570 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-09-04 11:40:02.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-04 11:40:02.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-04 11:40:02.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aaiqb\AppData\Local\Temp\testng-eclipse-1382378276\testng-customsuite.xml
+
+2024-09-04 11:40:02.597 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-09-04 11:40:02.620 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-04 11:40:02.620 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-04 11:40:02.620 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-04 11:40:05.136 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-04 11:40:07.027 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-04 11:40:07.039 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-04 11:40:07.040 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-04 11:40:07.044 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-04 11:40:07.046 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-04 11:40:07.047 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-04 11:40:07.073 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //*[@class='chakra-button css-1jp0m7c']]
+2024-09-04 11:40:07.375 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Tashina.Tremblay@tek.us to Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> css selector: #email]
+2024-09-04 11:40:07.531 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Erlinda to Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> css selector: #firstName]
+2024-09-04 11:40:07.600 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Farrell to Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> css selector: #lastName]
+2024-09-04 11:40:09.674 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Officer to Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> css selector: #employmentStatus]
+2024-09-04 11:40:13.535 [main] INFO  tek.tdd.utility.SeleniumUtility - Sending [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //input[@id='dateOfBirth']], 05/06/1999, {} to {}
+2024-09-04 11:40:14.300 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text sammy.kuhn to Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //*[@id="username"]]
+2024-09-04 11:40:14.379 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Ahad2112233 to Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //*[@id="password"]]
+2024-09-04 11:40:14.447 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Ahad2112233 to Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //*[@id="confirm"]]
+2024-09-04 11:40:14.512 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //button[text()='Submit']]
+2024-09-04 11:40:18.758 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text sammy.kuhn to Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //*[@id="username"]]
+2024-09-04 11:40:18.835 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Ahad2112233 to Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> css selector: #password]
+2024-09-04 11:40:21.906 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //button[text()='Sign In']]
+2024-09-04 11:40:25.160 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //button[@class='chakra-button chakra-button css-1lzp9bh']]
+2024-09-04 11:40:28.428 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (ecfae3b0-c544-40c0-8637-f0cc44ade40a)] -> xpath: //p[text()='FULL NAME']] 
+2024-09-04 11:40:28.457 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-04 11:40:28.505 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@377dbc50: 28 ms
+2024-09-04 11:40:28.506 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@531ec2ca: 1 ms
+2024-09-04 11:40:28.509 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@370225c7: 3 ms
+2024-09-04 11:40:28.514 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1f9a7684: 4 ms
+2024-09-04 11:40:28.518 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7bc2bb58: 4 ms
+2024-09-04 11:40:28.518 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7e2c6fd6: 0 ms

@@ -1,0 +1,493 @@
+2024-09-02 10:37:00.164 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aaiqb\AppData\Local\Temp\testng-eclipse--225489570\testng-customsuite.xml"
+2024-09-02 10:37:00.331 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:00.359 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.362 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 10:37:00.364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.365 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.365 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.366 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.366 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.367 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.369 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.369 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.370 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.371 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 10:37:00.372 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.372 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.379 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.387 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2024-09-02 10:37:00.388 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.388 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.390 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.391 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.391 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.391 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.392 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-02 10:37:00.396 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-09-02 10:37:00.396 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 10:37:00.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 10:37:00.405 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aaiqb\AppData\Local\Temp\testng-eclipse--225489570\testng-customsuite.xml
+
+2024-09-02 10:37:00.419 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-09-02 10:37:00.446 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 10:37:00.446 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 10:37:00.446 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 10:37:03.196 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 10:37:06.473 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:06.486 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:06.488 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:06.491 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:06.492 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:06.494 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:06.515 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (6bb4f092-cf05-4f76-918f-143cbf3e3311)] -> xpath: //*[@class='chakra-button css-1jp0m7c']]
+2024-09-02 10:37:06.832 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (6bb4f092-cf05-4f76-918f-143cbf3e3311)] -> xpath: //*[text()='Create Primary Account Holder']] 
+2024-09-02 10:37:06.862 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 10:37:06.864 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 10:37:06.864 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 10:37:06.864 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 10:37:08.862 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 10:37:10.565 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:10.565 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:10.566 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:10.566 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:10.567 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:10.567 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 10:37:10.586 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (524bd354-95a8-4591-8739-ab9bcd762be6)] -> xpath: //*[@class='chakra-heading css-1at26de']] 
+2024-09-02 10:37:10.618 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (524bd354-95a8-4591-8739-ab9bcd762be6)] -> xpath: //*[@class='chakra-button css-1jp0m7c']] 
+2024-09-02 10:37:10.645 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 10:37:10.713 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5e1fc2aa: 43 ms
+2024-09-02 10:37:10.713 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@688d411b: 0 ms
+2024-09-02 10:37:10.718 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@44924587: 5 ms
+2024-09-02 10:37:10.723 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3f685162: 4 ms
+2024-09-02 10:37:10.729 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@15b82644: 6 ms
+2024-09-02 10:37:10.729 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@20576557: 0 ms
+2024-09-02 11:40:19.262 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aaiqb\AppData\Local\Temp\testng-eclipse-1016656071\testng-customsuite.xml"
+2024-09-02 11:40:19.422 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 11:40:19.445 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.447 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 11:40:19.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.452 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.455 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 11:40:19.455 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.455 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.462 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-02 11:40:19.472 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2024-09-02 11:40:19.473 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.474 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.477 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-09-02 11:40:19.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.480 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.481 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.481 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 11:40:19.481 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 11:40:19.486 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aaiqb\AppData\Local\Temp\testng-eclipse-1016656071\testng-customsuite.xml
+
+2024-09-02 11:40:19.501 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-09-02 11:40:19.526 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 11:40:19.526 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 11:40:19.526 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 11:40:22.441 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 11:40:24.527 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 11:40:24.539 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 11:40:24.541 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 11:40:24.546 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 11:40:24.548 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 11:40:24.549 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 11:40:24.566 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (8b9e9a9f-fa10-4ebe-9e4f-5a42b590524a)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 11:40:24.863 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (8b9e9a9f-fa10-4ebe-9e4f-5a42b590524a)] -> xpath: //*[@id="username"]]
+2024-09-02 11:40:24.967 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (8b9e9a9f-fa10-4ebe-9e4f-5a42b590524a)] -> css selector: #password]
+2024-09-02 11:40:25.046 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (8b9e9a9f-fa10-4ebe-9e4f-5a42b590524a)] -> xpath: //button[text()='Sign In']]
+2024-09-02 11:40:26.269 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (8b9e9a9f-fa10-4ebe-9e4f-5a42b590524a)] -> link text: Plans]
+2024-09-02 11:40:28.197 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 11:40:28.245 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5aaaa446: 27 ms
+2024-09-02 11:40:28.245 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c6333cd: 0 ms
+2024-09-02 11:40:28.249 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@42b6d0cc: 3 ms
+2024-09-02 11:40:28.252 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@54cf7c6a: 3 ms
+2024-09-02 11:40:28.256 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2b10ace9: 4 ms
+2024-09-02 11:40:28.256 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@52169758: 0 ms
+2024-09-02 12:22:56.620 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aaiqb\AppData\Local\Temp\testng-eclipse-1128912972\testng-customsuite.xml"
+2024-09-02 12:22:56.794 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 12:22:56.820 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-02 12:22:56.823 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 12:22:56.824 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.824 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.824 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.825 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.825 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.825 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.826 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.826 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.827 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.827 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.828 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.828 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.828 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.829 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.834 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-09-02 12:22:56.844 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2024-09-02 12:22:56.845 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.845 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.848 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.848 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.848 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.848 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.851 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-02 12:22:56.851 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.852 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.853 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.853 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 12:22:56.853 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 12:22:56.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aaiqb\AppData\Local\Temp\testng-eclipse-1128912972\testng-customsuite.xml
+
+2024-09-02 12:22:56.874 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-09-02 12:22:56.899 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 12:22:56.900 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 12:22:56.900 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 12:22:59.277 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 12:23:04.727 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 12:23:04.739 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 12:23:04.741 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 12:23:04.746 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 12:23:04.748 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 12:23:04.749 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\aliTestng/src/test/resources/configs/dev-config.properties
+2024-09-02 12:23:04.768 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (e1892a55-c56f-45f3-a668-88386a452d8f)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 12:23:05.053 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (e1892a55-c56f-45f3-a668-88386a452d8f)] -> xpath: //*[@id="username"]]
+2024-09-02 12:23:05.155 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (e1892a55-c56f-45f3-a668-88386a452d8f)] -> css selector: #password]
+2024-09-02 12:23:05.226 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (e1892a55-c56f-45f3-a668-88386a452d8f)] -> xpath: //button[text()='Sign In']]
+2024-09-02 12:23:06.462 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (e1892a55-c56f-45f3-a668-88386a452d8f)] -> link text: Plans]
+2024-09-02 12:23:08.470 [main] INFO  tek.tdd.utility.SeleniumUtility - getting all elements [[[FirefoxDriver: firefox on windows (e1892a55-c56f-45f3-a668-88386a452d8f)] -> xpath: //td[@class='css-xumdn4']], [[FirefoxDriver: firefox on windows (e1892a55-c56f-45f3-a668-88386a452d8f)] -> xpath: //td[@class='css-xumdn4']], [[FirefoxDriver: firefox on windows (e1892a55-c56f-45f3-a668-88386a452d8f)] -> xpath: //td[@class='css-xumdn4']], [[FirefoxDriver: firefox on windows (e1892a55-c56f-45f3-a668-88386a452d8f)] -> xpath: //td[@class='css-xumdn4']]]
+2024-09-02 12:23:08.529 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 12:23:08.579 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@14b0e127: 28 ms
+2024-09-02 12:23:08.579 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@10823d72: 0 ms
+2024-09-02 12:23:08.585 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3eda0aeb: 6 ms
+2024-09-02 12:23:08.588 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@103082dd: 3 ms
+2024-09-02 12:23:08.591 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@71d9cb05: 2 ms
+2024-09-02 12:23:08.591 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@17c2d509: 0 ms
+2024-09-02 19:27:53.024 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aaiqb\Ali\testngFinal.xml"
+2024-09-02 19:27:53.221 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:53.271 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:53.277 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:53.458 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:53.468 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:53.473 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:53.497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aaiqb\Ali\testngFinal.xml
+
+2024-09-02 19:27:53.542 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:27:53.543 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:27:53.543 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:27:56.029 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:27:57.814 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:57.826 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:57.828 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:57.834 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:57.836 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:57.837 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:27:57.867 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:27:58.165 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //*[@id="username"]]
+2024-09-02 19:27:58.277 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> css selector: #password]
+2024-09-02 19:27:58.351 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:27:59.186 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> link text: Accounts]
+2024-09-02 19:28:00.734 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //select[@class='chakra-select css-161pkch']]
+2024-09-02 19:28:03.292 [main] INFO  tek.tdd.utility.SeleniumUtility - getting all elements [[[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //div[@id="root"]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[1]/button]]
+2024-09-02 19:28:03.387 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //select[@class='chakra-select css-161pkch']]
+2024-09-02 19:28:03.915 [main] INFO  tek.tdd.utility.SeleniumUtility - getting all elements [[[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']]]
+2024-09-02 19:28:04.105 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //select[@class='chakra-select css-161pkch']]
+2024-09-02 19:28:04.646 [main] INFO  tek.tdd.utility.SeleniumUtility - getting all elements [[[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']], [[FirefoxDriver: firefox on windows (7acff551-792b-46f5-8dd0-46cf146bd6b6)] -> xpath: //button[@class='chakra-button css-1kcf87u']]]
+2024-09-02 19:28:04.977 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:28:04.979 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:28:04.979 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:28:04.979 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:28:06.891 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:28:07.999 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:08.000 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:08.000 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:08.001 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:08.001 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:08.001 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:08.014 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (214e17db-fca2-416e-9474-5333d3f8f59b)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:28:08.280 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (214e17db-fca2-416e-9474-5333d3f8f59b)] -> xpath: //*[@id="username"]]
+2024-09-02 19:28:08.369 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (214e17db-fca2-416e-9474-5333d3f8f59b)] -> css selector: #password]
+2024-09-02 19:28:08.435 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (214e17db-fca2-416e-9474-5333d3f8f59b)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:28:08.677 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:28:08.678 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:28:08.678 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:28:08.678 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:28:10.635 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:28:11.806 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:11.807 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:11.807 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:11.808 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:11.809 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:11.809 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:11.822 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:28:12.099 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> xpath: //*[@id="username"]]
+2024-09-02 19:28:12.201 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> css selector: #password]
+2024-09-02 19:28:12.268 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:28:13.262 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> link text: Accounts]
+2024-09-02 19:28:14.783 [main] INFO  tek.tdd.utility.SeleniumUtility - getting all elements [[[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> xpath: //*[@id="root"]/div/div/div/div/div/div/table/tbody/tr], [[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> xpath: //*[@id="root"]/div/div/div/div/div/div/table/tbody/tr], [[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> xpath: //*[@id="root"]/div/div/div/div/div/div/table/tbody/tr], [[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> xpath: //*[@id="root"]/div/div/div/div/div/div/table/tbody/tr], [[FirefoxDriver: firefox on windows (90bcf6a1-3238-4899-8f81-d723621ad2ae)] -> xpath: //*[@id="root"]/div/div/div/div/div/div/table/tbody/tr]]
+2024-09-02 19:28:14.846 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:28:14.848 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:28:14.848 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:28:14.848 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:28:16.879 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:28:17.902 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:17.903 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:17.903 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:17.904 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:17.904 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:17.904 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:17.917 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (3d62567c-4915-4b58-93dc-88b481973c4e)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:28:18.200 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (3d62567c-4915-4b58-93dc-88b481973c4e)] -> xpath: //*[@id="username"]]
+2024-09-02 19:28:18.298 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (3d62567c-4915-4b58-93dc-88b481973c4e)] -> css selector: #password]
+2024-09-02 19:28:18.367 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (3d62567c-4915-4b58-93dc-88b481973c4e)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:28:19.161 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (3d62567c-4915-4b58-93dc-88b481973c4e)] -> link text: Plans]
+2024-09-02 19:28:21.126 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:28:21.126 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:28:21.126 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:28:21.127 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:28:23.149 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:28:24.363 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:24.364 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:24.364 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:24.365 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:24.365 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:24.365 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:24.377 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (f89c8bab-a79a-4686-86a2-c470c8649421)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:28:24.654 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (f89c8bab-a79a-4686-86a2-c470c8649421)] -> xpath: //*[@id="username"]]
+2024-09-02 19:28:24.746 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (f89c8bab-a79a-4686-86a2-c470c8649421)] -> css selector: #password]
+2024-09-02 19:28:24.817 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (f89c8bab-a79a-4686-86a2-c470c8649421)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:28:25.533 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (f89c8bab-a79a-4686-86a2-c470c8649421)] -> link text: Plans]
+2024-09-02 19:28:25.813 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:28:25.814 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:28:25.814 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:28:25.814 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:28:27.927 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:28:29.140 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:29.140 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:29.141 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:29.141 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:29.142 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:29.142 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:29.154 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (736082e2-a89e-4da4-b8af-ab068f00d5d6)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:28:29.430 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (736082e2-a89e-4da4-b8af-ab068f00d5d6)] -> xpath: //*[@id="username"]]
+2024-09-02 19:28:29.546 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (736082e2-a89e-4da4-b8af-ab068f00d5d6)] -> css selector: #password]
+2024-09-02 19:28:29.616 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (736082e2-a89e-4da4-b8af-ab068f00d5d6)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:28:30.459 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (736082e2-a89e-4da4-b8af-ab068f00d5d6)] -> link text: Plans]
+2024-09-02 19:28:32.505 [main] INFO  tek.tdd.utility.SeleniumUtility - getting all elements [[[FirefoxDriver: firefox on windows (736082e2-a89e-4da4-b8af-ab068f00d5d6)] -> xpath: //td[@class='css-xumdn4']], [[FirefoxDriver: firefox on windows (736082e2-a89e-4da4-b8af-ab068f00d5d6)] -> xpath: //td[@class='css-xumdn4']], [[FirefoxDriver: firefox on windows (736082e2-a89e-4da4-b8af-ab068f00d5d6)] -> xpath: //td[@class='css-xumdn4']], [[FirefoxDriver: firefox on windows (736082e2-a89e-4da4-b8af-ab068f00d5d6)] -> xpath: //td[@class='css-xumdn4']]]
+2024-09-02 19:28:32.551 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:28:32.552 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:28:32.552 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:28:32.552 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:28:34.716 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:28:35.869 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:35.870 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:35.870 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:35.871 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:35.871 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:35.871 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:35.882 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (9939d3da-5b5c-4afe-b6e6-3e9fbbdf7d0e)] -> xpath: //*[@class='chakra-button css-1jp0m7c']]
+2024-09-02 19:28:36.199 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Percy.Luettgen@tek.us to Element [[FirefoxDriver: firefox on windows (9939d3da-5b5c-4afe-b6e6-3e9fbbdf7d0e)] -> css selector: #email]
+2024-09-02 19:28:36.356 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Ezekiel to Element [[FirefoxDriver: firefox on windows (9939d3da-5b5c-4afe-b6e6-3e9fbbdf7d0e)] -> css selector: #firstName]
+2024-09-02 19:28:36.419 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Dicki to Element [[FirefoxDriver: firefox on windows (9939d3da-5b5c-4afe-b6e6-3e9fbbdf7d0e)] -> css selector: #lastName]
+2024-09-02 19:28:36.486 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Designer to Element [[FirefoxDriver: firefox on windows (9939d3da-5b5c-4afe-b6e6-3e9fbbdf7d0e)] -> css selector: #employmentStatus]
+2024-09-02 19:28:37.299 [main] INFO  tek.tdd.utility.SeleniumUtility - Sending [[FirefoxDriver: firefox on windows (9939d3da-5b5c-4afe-b6e6-3e9fbbdf7d0e)] -> xpath: //input[@id='dateOfBirth']], 05/06/2010, {} to {}
+2024-09-02 19:28:37.759 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (9939d3da-5b5c-4afe-b6e6-3e9fbbdf7d0e)] -> xpath: //div[text()='you must be 18 years or older to create account']] 
+2024-09-02 19:28:37.782 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:28:37.782 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:28:37.783 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:28:37.783 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:28:39.798 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:28:41.647 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:41.648 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:41.648 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:41.648 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:41.649 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:41.649 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:41.661 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (12d55a81-691e-431c-8670-0654d9c86648)] -> xpath: //*[@class='chakra-button css-1jp0m7c']]
+2024-09-02 19:28:41.969 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text ahad11@yahoo.com to Element [[FirefoxDriver: firefox on windows (12d55a81-691e-431c-8670-0654d9c86648)] -> css selector: #email]
+2024-09-02 19:28:42.111 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Ahad to Element [[FirefoxDriver: firefox on windows (12d55a81-691e-431c-8670-0654d9c86648)] -> css selector: #firstName]
+2024-09-02 19:28:42.170 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Iqbal to Element [[FirefoxDriver: firefox on windows (12d55a81-691e-431c-8670-0654d9c86648)] -> css selector: #lastName]
+2024-09-02 19:28:42.228 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Jobless to Element [[FirefoxDriver: firefox on windows (12d55a81-691e-431c-8670-0654d9c86648)] -> css selector: #employmentStatus]
+2024-09-02 19:28:43.037 [main] INFO  tek.tdd.utility.SeleniumUtility - Sending [[FirefoxDriver: firefox on windows (12d55a81-691e-431c-8670-0654d9c86648)] -> xpath: //input[@id='dateOfBirth']], 05/06/1999, {} to {}
+2024-09-02 19:28:43.581 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (12d55a81-691e-431c-8670-0654d9c86648)] -> xpath: //div[@class='chakra-alert banner-error css-1ykemat']] 
+2024-09-02 19:28:43.606 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:28:43.606 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:28:43.606 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:28:43.607 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:28:45.603 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:28:47.141 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:47.142 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:47.143 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:47.143 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:47.143 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:47.144 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:47.156 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (e316ac07-1488-4c25-b84a-7804a83a823d)] -> xpath: //*[@class='chakra-button css-1jp0m7c']]
+2024-09-02 19:28:47.445 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Nick.Satterfield@tek.us to Element [[FirefoxDriver: firefox on windows (e316ac07-1488-4c25-b84a-7804a83a823d)] -> css selector: #email]
+2024-09-02 19:28:47.604 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Adam to Element [[FirefoxDriver: firefox on windows (e316ac07-1488-4c25-b84a-7804a83a823d)] -> css selector: #firstName]
+2024-09-02 19:28:47.664 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Buckridge to Element [[FirefoxDriver: firefox on windows (e316ac07-1488-4c25-b84a-7804a83a823d)] -> css selector: #lastName]
+2024-09-02 19:28:47.735 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Liaison to Element [[FirefoxDriver: firefox on windows (e316ac07-1488-4c25-b84a-7804a83a823d)] -> css selector: #employmentStatus]
+2024-09-02 19:28:48.525 [main] INFO  tek.tdd.utility.SeleniumUtility - Sending [[FirefoxDriver: firefox on windows (e316ac07-1488-4c25-b84a-7804a83a823d)] -> xpath: //input[@id='dateOfBirth']], 05/06/1999, {} to {}
+2024-09-02 19:28:48.998 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (e316ac07-1488-4c25-b84a-7804a83a823d)] -> xpath: (//div[@class='chakra-stack css-1pqwvz2']/h2)[3]] 
+2024-09-02 19:28:49.022 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:28:49.023 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:28:49.023 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:28:49.023 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:28:51.043 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:28:52.202 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:52.203 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:52.203 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:52.204 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:52.204 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:52.204 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:28:52.217 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //*[@class='chakra-button css-1jp0m7c']]
+2024-09-02 19:28:52.524 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Maribel.Hahn@tek.us to Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> css selector: #email]
+2024-09-02 19:28:52.681 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Vikki to Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> css selector: #firstName]
+2024-09-02 19:28:52.740 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Yost to Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> css selector: #lastName]
+2024-09-02 19:28:54.808 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Facilitator to Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> css selector: #employmentStatus]
+2024-09-02 19:28:58.647 [main] INFO  tek.tdd.utility.SeleniumUtility - Sending [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //input[@id='dateOfBirth']], 05/06/1999, {} to {}
+2024-09-02 19:28:59.124 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text irina.ankunding to Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //*[@id="username"]]
+2024-09-02 19:28:59.207 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Ahad2112233 to Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //*[@id="password"]]
+2024-09-02 19:28:59.274 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Ahad2112233 to Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //*[@id="confirm"]]
+2024-09-02 19:28:59.346 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //button[text()='Submit']]
+2024-09-02 19:29:03.628 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text irina.ankunding to Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //*[@id="username"]]
+2024-09-02 19:29:03.711 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text Ahad2112233 to Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> css selector: #password]
+2024-09-02 19:29:06.777 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:29:10.051 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //button[@class='chakra-button chakra-button css-1lzp9bh']]
+2024-09-02 19:29:13.329 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (be64247b-6f3d-4e0d-99f9-e7fed1e94739)] -> xpath: //p[text()='FULL NAME']] 
+2024-09-02 19:29:13.352 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:29:13.355 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:29:13.356 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:29:13.356 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:29:15.530 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:29:16.731 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:16.732 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:16.733 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:16.733 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:16.733 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:16.734 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:16.746 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (87c396b3-d89a-4d82-9146-ca3226c4036f)] -> xpath: //*[@class='chakra-button css-1jp0m7c']]
+2024-09-02 19:29:17.036 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (87c396b3-d89a-4d82-9146-ca3226c4036f)] -> xpath: //*[text()='Create Primary Account Holder']] 
+2024-09-02 19:29:17.060 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:29:17.061 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:29:17.061 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:29:17.061 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:29:19.375 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:29:20.539 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:20.540 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:20.540 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:20.541 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:20.541 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:20.541 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:20.555 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (e468470f-b9b4-4845-846c-963390473616)] -> xpath: //*[@class='chakra-heading css-1at26de']] 
+2024-09-02 19:29:20.588 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (e468470f-b9b4-4845-846c-963390473616)] -> xpath: //*[@class='chakra-button css-1jp0m7c']] 
+2024-09-02 19:29:20.611 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:29:20.611 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:29:20.612 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:29:20.612 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:29:22.997 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:29:24.465 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:24.465 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:24.466 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:24.466 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:24.466 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:24.466 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:24.480 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (6b94031f-2835-471b-950e-b0e52f816e4c)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:29:24.759 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (6b94031f-2835-471b-950e-b0e52f816e4c)] -> xpath: //*[@id="username"]]
+2024-09-02 19:29:24.858 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (6b94031f-2835-471b-950e-b0e52f816e4c)] -> css selector: #password]
+2024-09-02 19:29:24.933 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (6b94031f-2835-471b-950e-b0e52f816e4c)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:29:25.660 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (6b94031f-2835-471b-950e-b0e52f816e4c)] -> xpath: //button[@class='chakra-button chakra-button css-1lzp9bh']]
+2024-09-02 19:29:25.926 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (6b94031f-2835-471b-950e-b0e52f816e4c)] -> xpath: //button[contains(text(),'Logout')]]
+2024-09-02 19:29:26.178 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (6b94031f-2835-471b-950e-b0e52f816e4c)] -> xpath: //h2[text()='Lets get you started']] 
+2024-09-02 19:29:26.199 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:29:26.200 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:29:26.200 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:29:26.200 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:29:28.732 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:29:29.892 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:29.893 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:29.893 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:29.894 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:29.894 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:29.894 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:29.907 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (4ba6f976-6d70-4a40-ab9c-a6148a535104)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:29:30.190 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (4ba6f976-6d70-4a40-ab9c-a6148a535104)] -> xpath: //*[@id="username"]]
+2024-09-02 19:29:30.299 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (4ba6f976-6d70-4a40-ab9c-a6148a535104)] -> css selector: #password]
+2024-09-02 19:29:30.377 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (4ba6f976-6d70-4a40-ab9c-a6148a535104)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:29:30.998 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (4ba6f976-6d70-4a40-ab9c-a6148a535104)] -> xpath: //button[@class='chakra-button chakra-button css-1lzp9bh']]
+2024-09-02 19:29:31.263 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (4ba6f976-6d70-4a40-ab9c-a6148a535104)] -> xpath: //header[contains(text(),'Profile')]] 
+2024-09-02 19:29:31.286 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:29:31.286 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:29:31.286 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:29:31.286 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:29:33.736 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:29:34.969 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:34.970 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:34.970 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:34.971 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:34.972 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:34.972 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:34.989 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (d0861e3b-e04b-42f9-9f2c-e73a0e079d07)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:29:35.286 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor1 to Element [[FirefoxDriver: firefox on windows (d0861e3b-e04b-42f9-9f2c-e73a0e079d07)] -> xpath: //*[@id="username"]]
+2024-09-02 19:29:35.409 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (d0861e3b-e04b-42f9-9f2c-e73a0e079d07)] -> css selector: #password]
+2024-09-02 19:29:35.494 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (d0861e3b-e04b-42f9-9f2c-e73a0e079d07)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:29:35.899 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (d0861e3b-e04b-42f9-9f2c-e73a0e079d07)] -> xpath: //div[@class='chakra-alert banner-error css-1ykemat']] 
+2024-09-02 19:29:35.925 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (d0861e3b-e04b-42f9-9f2c-e73a0e079d07)] -> xpath: //*[@id="username"]]
+2024-09-02 19:29:35.995 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor1 to Element [[FirefoxDriver: firefox on windows (d0861e3b-e04b-42f9-9f2c-e73a0e079d07)] -> css selector: #password]
+2024-09-02 19:29:36.063 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (d0861e3b-e04b-42f9-9f2c-e73a0e079d07)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:29:36.422 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (d0861e3b-e04b-42f9-9f2c-e73a0e079d07)] -> xpath: //div[text()='Password not matched']] 
+2024-09-02 19:29:36.443 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:29:36.444 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:29:36.444 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:29:36.444 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:29:39.013 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:29:40.194 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:40.194 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:40.194 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:40.195 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:40.195 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:40.195 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:40.206 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (55eea78f-8d37-46ac-9c82-566ccfea8601)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:29:40.486 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (55eea78f-8d37-46ac-9c82-566ccfea8601)] -> xpath: //*[@id="username"]]
+2024-09-02 19:29:40.580 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (55eea78f-8d37-46ac-9c82-566ccfea8601)] -> css selector: #password]
+2024-09-02 19:29:40.653 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (55eea78f-8d37-46ac-9c82-566ccfea8601)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:29:41.279 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (55eea78f-8d37-46ac-9c82-566ccfea8601)] -> xpath: //button[@class='chakra-button chakra-button css-1lzp9bh']]
+2024-09-02 19:29:41.542 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (55eea78f-8d37-46ac-9c82-566ccfea8601)] -> xpath: //button[contains(text(),'Logout')]]
+2024-09-02 19:29:41.804 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (55eea78f-8d37-46ac-9c82-566ccfea8601)] -> xpath: //h2[text()='Lets get you started']] 
+2024-09-02 19:29:41.824 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser
+2024-09-02 19:29:41.824 [main] INFO  tek.tdd.base.UIBaseClass - Setup test and opening browser
+2024-09-02 19:29:41.824 [main] INFO  tek.tdd.base.BaseSetup - Opening on firefox browser
+2024-09-02 19:29:41.824 [main] INFO  tek.tdd.base.BaseSetup - Is Headless on false
+2024-09-02 19:29:44.693 [main] INFO  tek.tdd.base.BaseSetup - Navigating to URLhttps://dev.insurance.tekschool-students.com/
+2024-09-02 19:29:46.056 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:46.057 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:46.057 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:46.057 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:46.058 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:46.058 [main] DEBUG tek.tdd.base.BaseSetup - Reading Config file from path C:\Users\aaiqb\Ali/src/test/resources/configs/dev-config.properties
+2024-09-02 19:29:46.073 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (0f39257d-461b-4c9e-a1ac-113d46ffc1ba)] -> xpath: //*[@class='chakra-button css-ez23ye']]
+2024-09-02 19:29:46.381 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text supervisor to Element [[FirefoxDriver: firefox on windows (0f39257d-461b-4c9e-a1ac-113d46ffc1ba)] -> xpath: //*[@id="username"]]
+2024-09-02 19:29:46.493 [main] DEBUG tek.tdd.utility.SeleniumUtility - Sending text tek_supervisor to Element [[FirefoxDriver: firefox on windows (0f39257d-461b-4c9e-a1ac-113d46ffc1ba)] -> css selector: #password]
+2024-09-02 19:29:46.591 [main] DEBUG tek.tdd.utility.SeleniumUtility - Clicking on Element [[FirefoxDriver: firefox on windows (0f39257d-461b-4c9e-a1ac-113d46ffc1ba)] -> xpath: //button[text()='Sign In']]
+2024-09-02 19:29:47.331 [main] DEBUG tek.tdd.utility.SeleniumUtility - Checking element for isDisplayed [[FirefoxDriver: firefox on windows (0f39257d-461b-4c9e-a1ac-113d46ffc1ba)] -> xpath: //h2[text()='Customer Service Portal']] 
+2024-09-02 19:29:47.361 [main] INFO  tek.tdd.base.UIBaseClass - Running after each test and closing browser

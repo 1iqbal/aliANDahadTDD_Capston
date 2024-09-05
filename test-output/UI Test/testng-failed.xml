@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [UI Test]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Functonal Testing(failed)">
+    <classes>
+      <class name="tek.tdd.tests.AccountTest">
+        <methods>
+          <include name="setupTests"/>
+          <include name="validateAccount"/>
+          <include name="testCleanUp"/>
+        </methods>
+      </class> <!-- tek.tdd.tests.AccountTest -->
+      <class name="tek.tdd.tests.BasicSetupTest">
+        <methods>
+          <include name="setupTests"/>
+          <include name="validateTopLeftCornerLogo"/>
+          <include name="testCleanUp"/>
+          <include name="testingLoggingBtnAndLogo"/>
+        </methods>
+      </class> <!-- tek.tdd.tests.BasicSetupTest -->
+      <class name="tek.tdd.tests.SecurityTest">
+        <methods>
+          <include name="setupTests"/>
+          <include name="testCleanUp"/>
+          <include name="validateAccount"/>
+          <include name="validateSignIn"/>
+        </methods>
+      </class> <!-- tek.tdd.tests.SecurityTest -->
+    </classes>
+  </test> <!-- Functonal Testing(failed) -->
+</suite> <!-- Failed suite [UI Test] -->
