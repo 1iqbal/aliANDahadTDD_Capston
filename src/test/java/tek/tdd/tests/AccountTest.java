@@ -25,7 +25,7 @@ public class AccountTest extends UIBaseClass {
 		 * Scenario 1)
 		 * 
 		 * Navigate to Customer Service Portal with valid CSR credentials and navigate
-		 * to Accounts verify 5 row /page is default * click(loginPage.loginBtn);
+		 * to Accounts verify 5  row /page is default * click(loginPage.loginBtn);
 		 * 
 		 * sendText(loginPage.userNameInput, "supervisor");
 		 * sendText(loginPage.passwordIpt, "tek_supervisor");
